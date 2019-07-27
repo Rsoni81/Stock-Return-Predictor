@@ -1,1 +1,2 @@
-"# Stock-Return-Predictor" 
+# Stock-Returns
+Prediction of Stock Returns using Machine Learning
